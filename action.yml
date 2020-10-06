@@ -1,7 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 
 name: readme2tex-action
-
+author: montali
+description: GH action that automatically builds every .tex.md file in the repo substituting the LaTeX snippets with svg images, using readme2tex 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
